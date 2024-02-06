@@ -1,1 +1,2 @@
-export PATH=$PATH:/Applications/Sublime\ Text.app/Contents/SharedSupport/bin
+### A repo to practice git commands
+A plan file
